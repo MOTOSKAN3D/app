@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SKAN</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hint_name">Nome do local</string>
+    <string name="text_button_add">Inserir</string>
+
+    <string name="hint_position1">Posição 1</string>
+    <string name="hint_position2">Posição 2</string>
+    <string name="hint_position3">Posição 3</string>
+    <string name="hint_position4">Posição 4</string>
+
+    <string name="text_example1">1</string>
+    <string name="title_insert">Insira as informações do comôdo da casa</string>
+
+</resources>

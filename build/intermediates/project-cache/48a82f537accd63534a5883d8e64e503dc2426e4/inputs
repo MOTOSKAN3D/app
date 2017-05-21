@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/Users/matheuscatossi/AndroidStudioProjects/ultrasonicapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=098e32399c1e612027381aab8ff0dc8f835777fa
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true
